@@ -2,3 +2,14 @@
 
 
 
+<p align="center">Here you can learn</p>
+
+
+<ol>
+    <li>Relate many to many</li>
+     <li>operation as Eloquent ORM</li>
+    <li>authorization with guard</li>
+    <li>authentenction</li>
+    <li>blade</li>
+ <ol>
+
