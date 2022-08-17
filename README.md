@@ -11,5 +11,6 @@
     <li>authorization with guard</li>
     <li>authentenction</li>
     <li>blade</li>
+    <li>js depencencies of authrizate </li>
  <ol>
 
